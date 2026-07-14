@@ -2,12 +2,12 @@
 import { getI18n } from '../i18n/ui';
 const { lang, messages } = getI18n(Astro.url);
 const n = messages.stickyNav;
+const h = messages.header;
 const items = [
   { label: n.facts, href: '#quick-facts' },
-  { label: n.etiquette, href: '#etiquette' },
-  { label: n.route, href: '#route' },
+  { label: h.history, href: '#history' },
   { label: n.transport, href: '#transport' },
-  { label: n.lodging, href: '#lodging' },
+  { label: n.route, href: '#route' },
   { label: n.visit, href: '#visit' },
   { label: n.faq, href: '#faq' },
 ];

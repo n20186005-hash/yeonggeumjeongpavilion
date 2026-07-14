@@ -166,14 +166,14 @@
     }
   },
   "transportSection": {
-    "title": "Driver & Guide · How to Get to Yeonggeumjeong",
-    "subtitle": "Whether by plane, train, public transit, car, taxi, bike or on foot, here is each mode in detail, plus parking, charging and shore tips.",
+    "title": "Transport & Parking Guide",
+    "subtitle": "A structured guide to reaching Yeonggeumjeong, including transfers, walking/cycling options, parking, and EV charging notes.",
     "overviewTitle": "After arriving in Sokcho",
-    "overviewText": "Sokcho lies on the northeast coast of Gangwon-do. The easiest external link is an express/intercity bus from Seoul straight to the Sokcho Express Bus Terminal (~2h40); you can also take a train toward Gangneung and transfer. In the city, Yeonggeumjeong is on the east coast — about 10–15 minutes by coastal walk or taxi from Sokcho Beach.",
+    "overviewText": "Sokcho lies on the northeast coast of Gangwon-do. The easiest external link is an express/intercity bus from Seoul straight to the Sokcho Express Bus Terminal (~2h40); you can also take a train toward Gangneung and transfer. In the city, Yeonggeumjeong sits on the coast north of Dongmyeong Port — typically ~10–15 minutes by taxi from the terminal, or ~15–20 minutes on foot from Sokcho Lighthouse Beach.",
     "overviewText2": "Yeonggeumjeong is built on rocks jutting into the East Sea, surrounded by open coast with no walls or gates. Plan transport, parking and walking together to save time and avoid on-site confusion.",
     "arrivalTitle": "Remember before you go",
     "arrivalItems": [
-      "Yeonggeumjeong is on Sokcho's east coast; from the terminal or beach it is about 10–15 minutes by foot or vehicle.",
+      "Yeonggeumjeong is on Sokcho's east coast north of Dongmyeong Port; from the terminal it's typically ~10–15 minutes by vehicle, and on foot it's most practical from nearby coastal areas.",
       "There is no large dedicated lot — use the Sokcho Beach public parking or nearby paid lots, then walk.",
       "In summer (esp. Jul–Aug) and on holidays the coast road jams badly; strongly prefer transit or off-peak."
     ],
@@ -320,12 +320,16 @@
     "mapsUrl": "https://maps.app.goo.gl/rfFpcei2FfbY7CoDA",
     "bestTime": {
       "title": "Best time to arrive",
-      "text": "Yeonggeumjeong is visitable any time, but dawn is the only 'right answer': the sun rising from the East Sea with the pavilion and spray, and few quiet people. After sunrise tour the beach and Abai Village, then finish high at the Expo Tower — the lowest-cost, most complete Sokcho coast plan."
+      "text": "Yeonggeumjeong is visitable any time, but dawn is typically the best window to observe the pavilion silhouette, sea spray, and the East Sea horizon together. If the morning is cloudy or windy, shift the focus to coastal walks and nearby cultural stops."
     }
   },
   "officialManagement": {
     "title": "About the Pavilion",
     "text": "Yeonggeumjeong is a traditional wooden viewing pavilion on coastal rocks on the east side of Sokcho, Gangwon-do, managed by Sokcho City as a public coastal site. Long listed among the 'Sokcho Eight Views', it is an open place for citizens to relax and for visitors to watch the East Sea sunrise and hear the tide. As a public coastal landmark, it offers citizens and visitors a space to connect with nature and learn about Joseon-era pavilion culture and East Sea geography."
+  },
+  "humanities": {
+    "title": "History & On-site Inscriptions",
+    "subtitle": "A structured reading of Yeonggeumjeong through place-name records, rebuilding history, and the three on-site plaques."
   },
   "knowledge": {
     "title": "History & Legend of Yeonggeumjeong",
